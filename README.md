@@ -1,13 +1,4 @@
 # AI Code Reviewer - GenAI Application
-
-🚀 **Powered by Google Gemini AI | Built with ❤️ using Streamlit**  
-
-## 🔗 Repository Link
-[AI Code Reviewer - GenAI](https://github.com/Suneelsuni/AI-Code-Reviewer-GenAI-Application/tree/main)
-
----
-
-## 📌 About the Project
 The **AI Code Reviewer** is a Streamlit-based web application that utilizes **Google Gemini AI** to analyze and review Python code. It provides:
 - 🨲 **Bug Reports**: Identifies syntax errors, logical flaws, and potential issues.
 - ⚙️ **Optimized Code**: Suggests improvements and best coding practices.
@@ -64,18 +55,7 @@ pip install streamlit google-generativeai
 streamlit run app.py
 ```
 
----
 
-## 🖼️ Repository Structure
-```
-gemini-code-reviewer/  
-│  
-├── app.py                    # Main Streamlit application  
-├── requirements.txt          # Python dependencies  
-│  
-├── README.md                 # Project documentation  
-└── LICENSE                   # License information  
-```
 
 ---
 
@@ -84,21 +64,28 @@ gemini-code-reviewer/
 
 ---
 
-## 🤝 Contributing
-Contributions are welcome! Feel free to submit a **Pull Request** or report issues.
-
----
-
 ## 🐝 License
 This project is open-source and licensed under the **MIT License**.
 
 ---
+---
 
+## 🤝 Contributing
+Contributions are welcome! Feel free to submit a **Pull Request** or report issues.
+## 🖼️ Repository Structure
+```
+gemini-code-reviewer/  
+│  
+├── app.py                    # Main Streamlit application  
+└── LICENSE                   # License information
+├── README.md                 # Project documentation 
+├── requirements.txt          # Python dependencies
+```
 ## ✨ Connect with Me
 👤 **Suneel Suni**  
-- 📧 Email: [YourEmail@example.com]  
+- 📧 Email: [suneelgangapuram3@gmail.com]  
 - 👉 GitHub: [Suneelsuni](https://github.com/Suneelsuni)  
-- 👉 LinkedIn: [YourLinkedInProfile](https://linkedin.com/in/yourprofile) *(Replace with actual link)*  
+- 👉 LinkedIn: [Gangapuram Suneel](linkedin.com/in/suneel-gangapuram-b2b869258) 
 
 ---
 
