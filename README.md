@@ -19,14 +19,14 @@ It provides:
 ✅ **Beautiful UI**: Styled with Streamlit custom CSS.
 
 ---
----
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-Frontend: Streamlit
+**Frontend**: Streamlit
 
-AI Model: Google Gemini Pro
+**AI Model**: Google Gemini Pro
 
-Backend: Python
+**Backend**: Python
+
 ---
 
 
