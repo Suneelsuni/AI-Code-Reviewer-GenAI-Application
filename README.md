@@ -1,5 +1,6 @@
 # AI Code Reviewer - GenAI Application
-The **AI Code Reviewer** is a Streamlit-based web application that utilizes **Google Gemini AI** to analyze and review Python code. It provides:
+The **AI Code Reviewer** is a Streamlit-based web application that utilizes **Google Gemini AI** to analyze and review Python code. 
+It provides:
 -  🛠️**Bug Reports**: Identifies syntax errors, logical flaws, and potential issues.
 - ⚙️ **Optimized Code**: Suggests improvements and best coding practices.
 - 📝 **Developer Guidance**: Offers insightful feedback for developers at all skill levels.
@@ -60,12 +61,6 @@ streamlit run app.py
 
 
 
----
-
-## 📸 Screenshots
-![AI Code Reviewer](https://your-image-link.com) *(Replace with actual image link from your repo)*
-
----
 
 ## 🐝 License
 This project is open-source and licensed under the **MIT License**.
@@ -73,17 +68,17 @@ This project is open-source and licensed under the **MIT License**.
 ---
 ---
 
-## 🤝 Contributing
-Contributions are welcome! Feel free to submit a **Pull Request** or report issues.
 ## 🖼️ Repository Structure
 ```
 gemini-code-reviewer/  
-│  
 ├── app.py                    # Main Streamlit application  
 └── LICENSE                   # License information
 ├── README.md                 # Project documentation 
 ├── requirements.txt          # Python dependencies
 ```
+## 🤝 Contributing
+Contributions are welcome! Feel free to submit a **Pull Request** or report issues.
+
 ## ✨ Connect with Me
 👤 **Suneel Suni**  
 - 📧 Email: [suneelgangapuram3@gmail.com]  
