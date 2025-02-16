@@ -17,22 +17,20 @@ It provides:
 ✅ **Beautiful UI**: Styled with Streamlit custom CSS.
 
 ---
+---
+🛠️ Tech Stack
+Frontend: Streamlit
+AI Model: Google Gemini Pro
+Backend: Python
+---
 
-## 🛠️ How It Works
+
+## 💡 How It Works
 1. **User Pastes Code**: Enter Python code into the input box.
 2. **AI Analysis**: Google Gemini AI reviews the code and provides feedback.
 3. **Bug Reports & Fixes**: AI identifies errors and suggests corrections.
 4. **Optimized Code Suggestions**: AI recommends improvements.
 5. **Enhanced Learning**: Developers receive concise feedback to improve their skills.
-
----
-
-## 📈 Upcoming Features
-- 🌟 **Support for More Languages** (Java, C++, JavaScript, etc.)
-- 🛠️ **Code Complexity Analysis**
-- 👨‍💻 **Collaborative Code Reviews**
-- 🛡️ **Security & Vulnerability Checks**
-- ✨ **Code Auto-Fixes & Refactoring**
 
 ---
 
@@ -58,14 +56,21 @@ pip install streamlit google-generativeai
 ```bash
 streamlit run app.py
 ```
+## 📈 Upcoming Features
+- 🌟 **Support for More Languages** (Java, C++, JavaScript, etc.)
+- 🛠️ **Code Complexity Analysis**
+- 👨‍💻 **Collaborative Code Reviews**
+- 🛡️ **Security & Vulnerability Checks**
+- ✨ **Code Auto-Fixes & Refactoring**
 
+---
 
-
-
-## 🐝 License
+## 📜 License
 This project is open-source and licensed under the **MIT License**.
 
 ---
+👨‍💻 Developed By
+Suneel Gangapuram
 ---
 
 ## 🖼️ Repository Structure
